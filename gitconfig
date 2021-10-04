@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = emma.szonyi@gmail.com
+	name = Emma Szonyi
